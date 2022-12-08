@@ -1,0 +1,29 @@
+.aboutMe{
+    margin-top: 35px;
+    flex-direction: column;
+}
+
+.title{
+width: 95%;
+height: 0px;
+border: 1px solid black;
+position: relative;
+}
+
+.title h1 {
+    position: absolute;
+    top: -44px;
+    left: 45%;
+    background: white;
+    box-shadow: 6px 6px 20px rgba(122,122,122,0.2);
+    border-radius: 20px;
+    padding: 0 10px 0 10px;
+}
+
+
+.content{
+    margin: 50px;
+    padding: 50px;
+    background-color: white;
+    box-shadow: 6px 6px 20px rgba(122,122,122,0.2);
+}

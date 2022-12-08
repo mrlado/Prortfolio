@@ -1,0 +1,27 @@
+.skills{
+    width: 95%;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 170px;
+    gap: 40px;
+}
+
+.SkillItem{
+    justify-content: center;
+    width: 400px;
+    align-items: center;
+    margin: 0 auto;
+}
+.container{
+        margin: 0 auto;
+        width: 94%;
+        height: 35px;
+        background-color: white;
+        box-shadow: 6px 6px 20px rgba(122,122,122,0.2);
+        border-radius: 20px;
+}
+.SkillItemNum{
+    margin-right: 10px;
+    margin-left: 10px;
+}

@@ -1,0 +1,22 @@
+.WorkContainer{
+    margin-top: 50px;
+}
+
+.work{
+    max-width: 800px;
+    margin: 0 auto;
+    height: 600px;
+    background-color: white;
+    box-shadow: 6px 6px 20px rgba(122,122,122,0.2);
+}
+.firstSlider{
+    background-color: red;
+    width: 800px;
+    height: 600px;
+}
+
+.secondSlider{
+    background-color: green;
+    width: 800px;
+    height: 600px;
+}

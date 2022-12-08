@@ -1,0 +1,8 @@
+.Settings{
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 50px;
+    box-shadow: 6px 6px 20px rgba(122,122,122,0.2);
+}
