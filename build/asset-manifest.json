@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0164ea85.css",
+    "main.js": "/static/js/main.061f691c.js",
+    "static/media/Voodi.png": "/static/media/Voodi.b2dcb380f70d158aa207.png",
+    "static/media/Myphoto.png": "/static/media/Myphoto.2fafca754e8a2c143b5e.png",
+    "static/media/React.svg": "/static/media/React.70398af2df7cb3d62bfe6e2ad9ec5428.svg",
+    "static/media/Github.svg": "/static/media/Github.a2b7c740fafcc2b1eb0335787c18d4f0.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.a156eedef3bc633629946bc0c876e37a.svg",
+    "static/media/ReactMotion.svg": "/static/media/ReactMotion.63f95ab58a909b1888f6f5bfe53ac64a.svg",
+    "static/media/Mui.svg": "/static/media/Mui.88de2a657f8bb95b97ef4b45596f25db.svg",
+    "static/media/Bootstrap.svg": "/static/media/Bootstrap.686642b0470417cd3423432ffe3ef31b.svg",
+    "static/media/Linkdin.svg": "/static/media/Linkdin.5208efd394ca226e6ea5d494025d7c09.svg",
+    "static/media/logo.svg": "/static/media/logo.e930577ae30dc97cbf9421839ddfbecf.svg",
+    "index.html": "/index.html",
+    "static/media/Fb.svg": "/static/media/Fb.fec5aab22157dc1a8663d2d248952d3b.svg",
+    "static/media/Logo.svg": "/static/media/Logo.4a029694f18c25d3eebf6e48c6c68085.svg",
+    "static/media/Myphotobg.svg": "/static/media/Myphotobg.f0edad0654de028052cec7418365bbce.svg",
+    "static/media/HTML.svg": "/static/media/HTML.88ce7de2966ee348f3cb364bb8c9255e.svg",
+    "static/media/Css.svg": "/static/media/Css.9121867189c2c2ec16b84e8201530f69.svg",
+    "main.0164ea85.css.map": "/static/css/main.0164ea85.css.map",
+    "main.061f691c.js.map": "/static/js/main.061f691c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0164ea85.css",
+    "static/js/main.061f691c.js"
+  ]
+}
